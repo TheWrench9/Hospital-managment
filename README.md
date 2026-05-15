@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 Hospital Management System — Spring Boot REST API
 
 A **production-grade** REST API backend for managing hospital operations. Built with Spring Boot 3, MySQL, JWT Authentication, Swagger UI, File Upload, and Email notifications.
